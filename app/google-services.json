@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1071584388687",
+    "firebase_url": "https://shop-now-c9020.firebaseio.com",
+    "project_id": "shop-now-c9020",
+    "storage_bucket": "shop-now-c9020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071584388687:android:9a3fc524ce7b150100ec3a",
+        "android_client_info": {
+          "package_name": "com.example.shopnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071584388687-3o3o8nf6j6n6o5d88dj7r2decq63bgr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA7IQYij3FnSg_T4zFf5YjnwtzoT8wVcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071584388687-3o3o8nf6j6n6o5d88dj7r2decq63bgr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
